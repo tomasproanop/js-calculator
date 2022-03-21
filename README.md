@@ -2,7 +2,7 @@
 
 ### About the project
 
-<img src="hhttps://github.com/tomasproanop/js-calculator/blob/main/js-calc.jpg" width="500" height="250">
+<img src="https://github.com/tomasproanop/js-calculator/blob/main/js-calc.jpg" width="500" height="250">
 
 This is a small project created as part of the final projects of the Front End Libraries Certification (300 hours) of [FreeCodeCamp](https://www.freecodecamp.org/learn). 
 
